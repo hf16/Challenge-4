@@ -5,7 +5,12 @@ Nama : Helmi Farizki
 
 Kelas : FEJS - 2
 
-# langkah Menjalankan Program App TodoList
+# Hasil APP Todolist bisa diakses melalaui link berikut: 
+
+https://helmifarizki-todolist.vercel.app/
+
+
+# Langkah Menjalankan Program App TodoList (Secara Lokal)
 Langkah pertama install terlebih dahulu npm :
 ```
 npm init
