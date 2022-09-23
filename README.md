@@ -42,6 +42,9 @@ npm run start
 7) Button Table Done  (Success , Time : 1 detik)
 
 
+# API yang dipakai :
+
+https://632afed0713d41bc8e7d42aa.mockapi.io/todos 
 
 # Lampiran Hasil
 Setelah itu program bisa dijalankan. Berikut lampiran tampilan app Todolist yang sudah berhasil dijalankan:
