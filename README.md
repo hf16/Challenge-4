@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Challenge-04
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TODO LIST REACT JS
+Nama : Helmi Farizki
 
-## Available Scripts
+Kelas : FEJS - 2
 
-In the project directory, you can run:
+# langkah Menjalankan Program App TodoList
+Langkah pertama install terlebih dahulu npm :
+```
+npm init
+```
 
-### `npm start`
+```
+npm install
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Setelah menginstall npm , lamgkah selanjutnya adalah menjalankan program app Todo List, dengan cara:
+```
+npm run start
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Validasi Hasil
 
-### `npm test`
+1) Input new To-Do (Success , Time : 11 detik)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2) icon Ceklist Strikethrough/Tick (Success , Time : 6 detik)
 
-### `npm run build`
+3) icon Delete  (Success , Time : 6 detik)
+ 
+4) Edit  (Succes , Time : 9 detik)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5) Button Table All  (Success , Time : 1 detik)
+ 
+6) Button Table TODO  (Success , Time : 1 detik)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+7) Button Table Done  (Success , Time : 1 detik)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Lampiran Hasil
+Setelah itu program bisa dijalankan. Berikut lampiran tampilan app Todolist yang sudah berhasil dijalankan:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Tampilan Home**
+![image](https://user-images.githubusercontent.com/95130275/191959528-5df94382-417b-483e-a1a1-0f1272603a5a.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Tampilan Laman Input**
+![image](https://user-images.githubusercontent.com/95130275/191764803-29442202-0cd6-4f71-9b9d-25c8f8603ea2.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Tampilan Laman Edit**
+![image](https://user-images.githubusercontent.com/95130275/191765112-f08220cd-216b-4011-b5bb-1645dc89afb0.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+**Tampilan Hasil Button All**
+![image](https://user-images.githubusercontent.com/95130275/191765366-4089140c-8a93-48ed-b7ef-1c2b969c5d9c.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+**Tampilan Hasil Button Done**
+![image](https://user-images.githubusercontent.com/95130275/191765531-e2091aa1-0858-4521-b0aa-4a4285d4bcf7.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+**Tampilan Hasil Button TODO**
+![image](https://user-images.githubusercontent.com/95130275/191765654-503e963b-a214-4c4b-a5d7-0446455323c3.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
