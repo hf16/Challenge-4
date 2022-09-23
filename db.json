@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "name": "Latihan Chapter 1",
+      "id": 13,
+      "complete": true
+    },
+    {
+      "name": "Challenge Chapter 1",
+      "id": 14,
+      "complete": true
+    },
+    {
+      "name": "Latihan Chapter 2",
+      "id": 15,
+      "complete": true
+    },
+    {
+      "name": "Challenge Chapter 2",
+      "id": 16,
+      "complete": false
+    },
+    {
+      "name": "Latihan Chapter 3",
+      "id": 17,
+      "complete": false
+    },
+    {
+      "name": "Challenge Chapter 3",
+      "id": 18,
+      "complete": false
+    },
+    {
+      "name": "FINAL PROJEK",
+      "id": 19,
+      "complete": false
+    }
+  ]
+}
